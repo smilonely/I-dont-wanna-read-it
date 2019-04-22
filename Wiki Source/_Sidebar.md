@@ -1,8 +1,8 @@
 ## 公司/协议列表
 
-[腾讯・QQ 空间服务协议](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-Qzone)
+[QQ 空间服务协议](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-Qzone)
 
-
+<br />
 
 ----
 

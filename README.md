@@ -24,9 +24,9 @@
 
 ## 如果你也想加入
 
-本项目使用 Wiki 的文件结构，以 Markdown 语法。
+本项目使用 Wiki 的文件结构，以 Markdown 语法编写。
 
-登录 Github 帐号直接编辑，你可以点击 [这里](https://github.com/smilonely/I-dont-wanna-read-it/wiki/_new) 直接添加一个新的页面，页面名字以「公司名 + 产品协议概括」的英文形式命名。
+登录 Github 帐号即可直接编辑，你可以点击 [这里](https://github.com/smilonely/I-dont-wanna-read-it/wiki/_new) 直接添加一个新的页面，页面名字以「公司名 + 产品协议概括」的英文形式命名。
 
 例如：`Tencent QQ`
 
