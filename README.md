@@ -28,9 +28,9 @@
 
 登录 Github 帐号即可直接编辑，你可以点击 [这里](https://github.com/smilonely/I-dont-wanna-read-it/wiki/_new) 直接添加一个新的页面，页面名字以「公司名 + 产品协议概括」的英文形式命名。
 
-例如：`Tencent QQ`
+例如：腾讯 QQ 号码规则，可写为`Tencent QQ Number Rule`。（因为标题会显示出来，命名可以以美观易读优先。）
 
-而由于 http 的特性，此时这个页面的链接是`https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-QQ`（添加了横杠）
+而由于 http 的特性，此时这个页面的链接是`https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-QQ-Number-Rule`（添加了横杠）
 
 我建议页面的内容使用一个 [规范格式](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Sample)。
 
