@@ -18,7 +18,7 @@
 
 ## 主页
 
-访问 [主页](https://github.com/smilonely/I-dont-wanna-read-it/wiki/About) ，来查看完整内容。
+访问 [主页](https://github.com/smilonely/I-dont-wanna-read-it/wiki) ，来查看完整内容。
 
 <br />
 
