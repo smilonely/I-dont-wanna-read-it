@@ -26,15 +26,24 @@
 
 - 你发布的内容，可能会被第三方复制、转载、修改，腾讯对此不予负责。
 
+
 <br />
 
 ## 你不能做
+
+- 违法违规的东西不能做。
 
 - 不能发送「邀请好友拆礼盒」、「集赞有奖励」等分享后有奖励的内容。
 
 - 不能发送「不转不是中国人」之类的胁迫、煽动内容。
 
 - 当因为你或你的好友违规受到腾讯的处罚，而导致你遭受损失，你不能追究腾讯的责任或主张权利。
+
+<br />
+
+## 其他
+
+- 本协议内容同时包括 [腾讯服务协议](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-Service)、[QQ 号码规则](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-QQ-Number-Rule)、[QQ 空间使用规则](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-Qzone-Usage-Rules)。
 
 <br />
 
