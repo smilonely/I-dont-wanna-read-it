@@ -1,1 +1,0 @@
-[⬅返回主页](https://github.com/smilonely/I-dont-wanna-read-it/wiki)　　本 Wiki 内容若无特别声明采用 [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 协议进行许可
