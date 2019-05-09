@@ -1,7 +1,7 @@
 # 网易音乐人服务条款
 
 ```
-原始协议地址：https://music.163.com/nmusician/web/apply#/m/agreement
+原始协议地址：[music.163.com](https://music.163.com/nmusician/web/apply#/m/agreement)
 所属公司名称：网易公司
 最后编辑时间：2019-05-08
 协议是否有效：是
@@ -36,6 +36,10 @@
 
 <br />
 
+## 其他
 
+- 条款内容随时更新，并会公示。
+
+<br />
 
 <br />

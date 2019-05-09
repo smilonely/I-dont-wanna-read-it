@@ -1,12 +1,32 @@
 # 腾讯微信软件许可及服务协议
 
+> 原始协议地址：[weixin.qq.com](https://weixin.qq.com/agreement?lang=zh_CN)
 ```
-原始协议地址：https://weixin.qq.com/agreement?lang=zh_CN
 所属公司名称：腾讯公司
 最后编辑时间：2019-05-07
 协议是否有效：是
 本内容编辑者：Dangel
 ```
+
+<br />
+
+## 老生常谈
+
+- [x] 违法违规的不能做。
+
+- [x] 服务方可在你违反协议、违法违规时对你进行处罚或终止服务。
+
+- [x] 未满 18 周岁用户请在监护人指导下使用本服务。
+
+- [x] 服务方保证在除有关部门要求外不向第三方透露你隐私的信息。
+
+- [x] 你的数据不返还，并且对后果免责。
+
+- [x] 服务方对你自己造成的后果免责。
+
+- [x] 服务方对不可控/不可抗力的因素免责。
+
+- [x] 条款内容随时更新。
 
 <br />
 
@@ -22,17 +42,9 @@
 
 - **微信号仅可设置一次，后续无法修改。**
 
-- **长期不登录的微信号，腾讯有权利守收回，造成的损失由用户承担。**
+- 长期不登录的微信号，腾讯有权力守收回，造成的损失由用户承担。
 
-- 腾讯不完全保证你的数据安全，由于用户自行操作或不可控因素造成的损失，腾讯不负责。
-
-- 你停止使用微信或者腾讯终止向你服务后，腾讯可以在服务器上删除你的数据，并且无义务返还。
-
-- 腾讯可以在你发现你违反协议时，对你进行处罚。
-
-- 腾讯可以对违反违规用户采取适当法律行动，或报告相关部门。
-
-- 由于你违反协议导致第三方索赔的，你独立承担损失。
+- **你同意腾讯有权利选择微信上向你提供服务的对象。**
 
 <br />
 
@@ -44,13 +56,6 @@
 
 <br />
 
-## 你不能做
-
-- 违法违规的不能做。
-
-
-<br />
-
 ## 你可以做
 
 - 你可以在非商业的前提下，在单一台设备上使用微信。
@@ -59,17 +64,17 @@
 
 <br />
 
-  ## 其他
+## 其他
 
-  - 本协议视为 [腾讯服务协议](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-Service) 及 [QQ 号码规则](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-QQ-Number-Rule) 的补充协议，冲突内容以本协议为准。
+- 本协议视为 [腾讯服务协议](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-Service) 及 [QQ 号码规则](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-QQ-Number-Rule) 的补充协议，冲突内容以本协议为准。
 
-  - 隐私相关请看 [《微信隐私保护指引》](https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy)。
+- 隐私相关请看 [《微信隐私保护指引》](https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_agreement&s=privacy)。
 
-  - 关于帐号具体规则请遵守 [QQ 号码规则](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-QQ-Number-Rule) 以及 [《微信个人帐号使用规范》](https://weixin110.qq.com/security/readtemplate?t=w_security_center_website/w_weixin_account_agreement)。
+- 关于帐号具体规则请遵守 [QQ 号码规则](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-QQ-Number-Rule) 以及 [《微信个人帐号使用规范》](https://weixin110.qq.com/security/readtemplate?t=w_security_center_website/w_weixin_account_agreement)。
 
-  - 使用微信支付时，请遵守 [《微信支付用户服务协议》](http://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=faq&t=weixin_agreement&s=pay)。
+- 使用微信支付时，请遵守 [《微信支付用户服务协议》](http://weixin.qq.com/cgi-bin/readtemplate?uin=&stype=&promote=&fr=&lang=zh_CN&ADTAG=&check=false&nav=faq&t=weixin_agreement&s=pay)。
 
-  - 微信所使用的 [开源代码](https://weixin.qq.com/cgi-bin/readtemplate?uin=&t=open_info_collect)。
+ - 微信所使用的 [开源代码](https://weixin.qq.com/cgi-bin/readtemplate?uin=&t=open_info_collect)。
 
 <br />
 

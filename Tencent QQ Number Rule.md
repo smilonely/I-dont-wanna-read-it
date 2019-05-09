@@ -1,7 +1,7 @@
 # QQ 号码规则
 
+> 原始协议地址：[zc.qq.com](https://zc.qq.com/chs/agreement1_chs.html)
 ```
-原始协议地址：https://zc.qq.com/chs/agreement1_chs.html
 所属公司名称：腾讯公司
 最后编辑时间：2019-04-22
 协议是否有效：是
@@ -59,6 +59,8 @@
 - 个人信息问题包含在 [《腾讯隐私政策》](http://www.qq.com/privacy.htm) 中。
 
 - 有任何问题或异议，可联系 [腾讯客服](http://kf.qq.com)。
+
+- 条款内容随时更新。 
 
 <br />
 

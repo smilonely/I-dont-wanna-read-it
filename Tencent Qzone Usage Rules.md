@@ -1,7 +1,7 @@
 # QQ 空间使用规则
 
+> 原始协议地址：[qzone.qq.com](https://qzone.qq.com/web/rule.html)
 ```
-原始协议地址：https://qzone.qq.com/web/rule.html
 所属公司名称：腾讯公司
 最后编辑时间：2019-04-22
 协议是否有效：是
@@ -47,7 +47,7 @@
 
 - 本规则是 [QQ 空间服务协议](https://github.com/smilonely/I-dont-wanna-read-it/wiki/Tencent-Qzone-Service) 的一部分。
 
-
+- 条款内容随时更新。
 
 <br />
 
