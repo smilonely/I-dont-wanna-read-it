@@ -66,7 +66,7 @@
 
 ## 其他
 
-- 个人信息保护，参见 [《隐私政策》](https://www.toutiao.com/privacy_protection/)。
+- 个人信息保护参见 [《隐私政策》](https://www.toutiao.com/privacy_protection/)。
 
 <br />
 
