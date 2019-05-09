@@ -1,4 +1,4 @@
-# 今日抖音用户协议
+# 「抖音」用户服务协议
 
 > 原始协议地址：[www.douyin.com](https://www.douyin.com/agreement/)
 ```
